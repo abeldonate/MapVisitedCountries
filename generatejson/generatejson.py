@@ -3,7 +3,7 @@ with open('countries2.json', 'w') as f:
         lines = r.readlines()
         f.write("{\"countries\":[\n")
         for l in lines:
-            f.write("   { \"country\":\""+ l.strip() + "\", \"x\":0, \"y\":0, \"visited\":false},\n")
+            f.write("   { \"country\":\""+ l.strip() + "\", \"id\":\"aa\", \"visited\":false},\n")
             print(l)
         f.write("]}")
         r.close()

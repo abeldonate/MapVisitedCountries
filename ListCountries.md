@@ -57,11 +57,11 @@
 - Ethiopia
 - Fiji
 - Finland
-- France
+- ~~France~~
 - Gabon
 - Gambia
 - Georgia
-- Germany
+- ~~Germany~~
 - Ghana
 - Greece
 - Grenada
@@ -79,7 +79,7 @@
 - Iraq
 - Ireland {Republic}
 - Israel
-- Italy
+- ~~Italy~~
 - Ivory Coast
 - Jamaica
 - Japan
@@ -167,7 +167,7 @@
 - Suriname
 - Swaziland
 - Sweden
-- Switzerland
+- ~~Switzerland~~
 - Syria
 - Taiwan
 - Tajikistan
@@ -183,7 +183,7 @@
 - Uganda
 - Ukraine
 - United Arab Emirates
-- United Kingdom
+- ~~United Kingdom~~
 - United States
 - Uruguay
 - Uzbekistan
